@@ -1,0 +1,12 @@
+.env
+*.pyc
+
+venv/
+.venv/
+
+*.log
+
+config.ini
+secrets.json
+
+.idea
